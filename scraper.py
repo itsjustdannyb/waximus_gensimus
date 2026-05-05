@@ -12,7 +12,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseUpload
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-# START_URL        = "scraping link... lol"
+START_URL        = "scraping link... lol"
 DRIVE_FOLDER     = "Images"   # Folder name to create in your Google Drive
 MAX_PAGES        = 50
 DELAY_SEC        = 1.5
